@@ -1,0 +1,11 @@
+{
+  "name": "catfish_catcher_bot",
+  "version": "1.0.0",
+  "description": "This is a discord bot that will scan images, and reverse search the images to verify if a selfie is real or fake.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
